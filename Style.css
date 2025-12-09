@@ -1,5 +1,14 @@
 .nav {
     display: flex;
-    justify-content: space-evenly;
-
+    justify-content: space-around;
+     align-items: center;
+    background-color: #2a69b8;
+}
+.autre {
+    font-size: 50px;
+    background-color: red;
+}
+.principal {
+    background-color: rgb(60, 255, 0);
+    font-size: 50px;
 }
