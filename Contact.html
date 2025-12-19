@@ -7,7 +7,7 @@
     <title>Page Contact</title>
 </head>
 <body> 
-<header>
+<header id="haut">
 <nav class="nav" >
     <a class="autre" href="Presentation.html" >Presentation</a>
     <a class="principal" href="Contact.html">Contact</a>
@@ -15,12 +15,15 @@
 </nav>
 <h1 class="first">JEAN XXIII</h1>
 </header>
+<div class="retour">    
+                <a href="#haut" class="boutton">Revenir en haut</a>
+</div>
 <h1>Nous contacter :</h1>
-<table border="1">
+<table class="info-contact" border="1">
     <tr><th>Nom</th><th>Prenom</th><th>Numero</th><th>Adresse mail</th><th>Instagram</th></tr>
     <tr><td>Fournier</td><td>Paul</td><td>06 48 49 62 87</td><td>fournierpaul51100@gmail.com</td><td><a class="instagram" href="https://www.instagram.com/paul_lefour/?next=%2F=">paul_lefour</a></td></tr>
     <tr><td>Moroni</td><td>Mathis</td><td></td><td></td><td><a class="instagram" href="https://www.instagram.com/mathism_09/">mathism_09</a></td></tr>
-    <tr><td>Pch</td><td>Luke</td><td></td><td></td><td><a class="instagram" href="https://www.instagram.com/luke_pch/">luke_pch</a></td></tr>
+    <tr><td>Pichon</td><td>Luke</td><td></td><td></td><td><a class="instagram" href="https://www.instagram.com/luke_pch/">luke_pch</a></td></tr>
 </table>
 
 <p class="contacter">Nous envoyer un message :</p>
@@ -35,5 +38,10 @@
         <label for="message">Message : </label>
         <textarea id="message" placeholder="Votre message"></textarea><br><br>
         <button>Envoyer</button>
+
+<footer>
+    <i>© Rédacteurs : Mathis Moroni, Luke Pichon, Paul Fournier<br>
+        Tous droits réservés.</i>
+</footer>
 </body>
 </html>
