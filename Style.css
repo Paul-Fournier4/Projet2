@@ -67,6 +67,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+    max-height: 400px;
 }
 footer {
     text-align: center;
@@ -93,5 +94,11 @@ footer {
 .boutton:hover {
     background-color:rgb(21, 67, 0);
     transform: scale(1.05);
-
+}
+.centrer {
+    text-align: center;
+}
+em {
+    color: rgb(68, 0, 81);
+    font-weight: bold;
 }
