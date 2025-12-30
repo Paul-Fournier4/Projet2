@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2025-11-17" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2025-11-03" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description/>
-    <view zooming-state="default:2" id="gantt-chart">
+    <view zooming-state="default:7" id="gantt-chart">
         <field id="tpd3" name="Nom" width="200" order="0"/>
         <field id="tpd4" name="Date de début" width="75" order="1"/>
         <field id="tpd5" name="Date de fin" width="75" order="2"/>
@@ -42,11 +42,11 @@
         <task id="1" uid="136cc328427d43acbf5d1177b706ba73" name="Recolter actualité sur le lycée" meeting="false" start="2025-11-21" duration="33" complete="0" expand="true"/>
         <task id="2" uid="3a42f979cf08439a8c78a32e565d11dc" name="Créer une page de presentation" meeting="false" start="2025-11-25" duration="1" complete="0" expand="true"/>
         <task id="3" uid="54c2b4ac43ce4639a565997739d78cb5" name="Créer de page d'actualités" meeting="false" start="2025-11-25" duration="1" complete="0" expand="true"/>
-        <task id="4" uid="0a307af6da334628af98f2226449aca8" name="mise en place de la page contact" meeting="false" start="2025-11-25" duration="19" complete="0" expand="true"/>
+        <task id="4" uid="0a307af6da334628af98f2226449aca8" name="mise en place de la page contact" meeting="false" start="2025-11-25" duration="1" complete="0" expand="true"/>
         <task id="5" uid="7eceea4611b14adf839489895a65204a" name="Relier les pages" meeting="false" start="2025-11-25" duration="1" complete="0" expand="true"/>
         <task id="6" uid="9877cbe113654a6b9ff7f82a7f0a1b92" name="mettre en place une interface qui met en valeurs la page actuelle" meeting="false" start="2025-11-25" duration="1" complete="0" expand="true"/>
         <task id="7" uid="c9d4a22666884647bbcbe70017cd6493" name="creer un formulaire de contact directement integrée" meeting="false" start="2025-12-16" duration="1" complete="0" expand="true"/>
-        <task id="10" uid="b698ed2d35944988a065bd7820eba49b" name="tâche_10" meeting="false" start="2025-11-07" duration="1" complete="0" expand="true"/>
+        <task id="10" uid="b698ed2d35944988a065bd7820eba49b" name="modification page Contact" meeting="false" start="2025-11-25" duration="19" complete="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
