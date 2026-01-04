@@ -9,10 +9,11 @@ scroll-behavior: smooth;
     border-radius: 20px;
 }
 .first {
-    font-size: 40px;
-    text-align: left;
+    font-size: 60px;
+    text-align: center;
     color: #08c;
     text-decoration: none;
+    margin: 10px;
     
 }  
 .autre {
@@ -57,7 +58,7 @@ button {
     cursor: pointer;
 }
 .info-contact {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     border-collapse: collapse;
     width: 100%;
     text-align: center;
@@ -97,6 +98,8 @@ footer {
 }
 .centrer {
     text-align: center;
+    font-style: italic;
+    font-size: 20px;
 }
 em {
     color: rgb(68, 0, 81);
