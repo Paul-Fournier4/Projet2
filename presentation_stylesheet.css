@@ -1,0 +1,97 @@
+/* Titre d'introduction */
+.intro {
+    font-size: 40px;
+    color: #08c;
+    text-align: center;
+    margin: 20px 5%;
+    font-weight: bold;
+}
+/* Conteneur principal de la présentation */
+.presentation {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 0 5%;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+/* Paragraphes de la présentation */
+.presentation p {
+    font-size: 16px;
+    margin: 15px 0;
+}
+/* Sous-titres de la présentation */
+.presentation h3 {
+    color: #08c;
+    font-size: 20px;
+    margin: 25px 0 10px;
+    text-decoration: underline;
+}
+/* Listes à puces */
+.presentation ul {
+    margin-left: 30px;
+}
+.presentation li {
+    margin-bottom: 8px;
+}
+
+/* Bonton site officiel */
+.bouton-site {
+    text-align: center;
+    margin: 25px 0;
+}
+.bouton-officiel {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #08c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+/* Style des images */
+.image {
+    display: block;
+    margin: 20px auto;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Deco images */
+.image {
+    display: block;
+    margin: 20px auto;
+    width: 70%;
+    max-width: 600px; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s; 
+}
+.image:hover {
+    transform: scale(1.02); 
+}
+/* Conteneur de la carte */
+.map {
+    margin: 20px auto;
+    width: 90%;
+    border-radius: 10px;
+    overflow: hidden; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.map iframe {
+    width: 100%; 
+    height: 300px; 
+    text-align: center;
+}
+.bouton-officiel:hover {
+    background-color: rgb(0, 29, 158);
+}
+
+
+
+
+
+
+
+
